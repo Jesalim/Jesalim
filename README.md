@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesalim
 - 👀 I’m interested in Embedded systems, Python
-- 🌱 I’m currently learning Mechatronics Engineering, Embedde Systems
+- 🌱 I’m currently learning Mechatronics Engineering, Embedded Systems
 - 💞️ I’m looking to collaborate more on Community projects
 - 📫 
 
